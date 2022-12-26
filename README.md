@@ -1,12 +1,9 @@
-#Bilibili Video Helper B站视频助手
+# Bilibili Video Helper B站视频助手
 THIS PROGRAM'S VERSION 这个程序的当前版本号：  
 **v0.8.50**
 
-————README FILE介绍————  
-Bilibili video tools  
-——COPYRIGHT© LICENSE 2022——  
 **WARNING:THIS PROGRAM IS FOLLOWING *MIT*!本程序遵循*MIT*开源！**  
-Enjoy it !  
+Enjoy it !
 
 版本更新历史：  
 + v0.8.50
