@@ -2,9 +2,6 @@
 THIS PROGRAM'S VERSION 这个程序的当前版本号：  
 **v0.8.50**
 
-**WARNING:THIS PROGRAM IS FOLLOWING *MIT*!本程序遵循*MIT*开源！**  
-Enjoy it !
-
 版本更新历史：  
 + v0.8.50
 修复部分GUI显示错误
